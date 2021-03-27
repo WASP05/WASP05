@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WASP05
-- 👀 I’m interested in 
+- 👀 I’m interested in game development,coding ,Data Science.
 - 🌱 I’m currently learning Augmented Reality
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me 
